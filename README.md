@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently diving deep into **Spring Boot** to understand how to build scalable backend services.
 - 🤝 I’m actively looking to **collaborate with fellow Java Backend Developers** on real-world projects, open-source contributions, or tech-based communities.
 - 💬 Ask me about anything related to **Java**, **MySQL**, **REST APIs**, or any of my **projects** — I love discussing backend architecture and clean code.
-- 😄 **Fun fact:** I'm naturally confident and technically curious — I enjoy debugging, exploring new backend strategies, and transforming logic into clean solutions.
+- 😄 **Fact about me :** I'm naturally confident and technically curious — I enjoy debugging, exploring new backend strategies, and transforming logic into clean solutions.
 
 ---
 
