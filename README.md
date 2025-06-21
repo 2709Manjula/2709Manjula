@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![Banner](https://github.com/2709Manjula/2709Manjula/blob/master/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 
-### 👩‍💻 I'm currently working at [BlueScope](https://www.bluescopetech.com/)  
+### 👩‍💻 I'm currently working as a Trainee at [BlueScope](https://www.bluescopetech.com/)  
 📍 Location: [BlueScope Locations]([https://www.bluescope.com/about-bluescope/where-we-operate/](https://www.google.com/maps/dir//2nd+Floor,+Rakshi+Sai+Building,+Sai+Baba+Kovil+St,+Bhuvaneshwari+Nagar,+Gowriwakkam,+Sembakkam,+Chennai,+Tamil+Nadu+600073/@12.9545625,80.1644599,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3a525ea2b3e08eab:0x28ec0bfa5afc2879!2m2!1d80.2468618!2d12.9545754?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D))
 
 - 🌱 I’m currently diving deep into **Spring Boot** to understand how to build scalable backend services.
